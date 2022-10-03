@@ -1,1 +1,2 @@
-# RepoForHomeWorkPython
+RepoForHomeWorkPython - репозиторий создан для домашних работ с семинаров.
+Каждая задача и её решение, расположенны в файлах Sem(№)Task(№).
